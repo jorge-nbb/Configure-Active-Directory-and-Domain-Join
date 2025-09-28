@@ -203,6 +203,8 @@ You can now RDP as `adminlab\testuser`.
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
   <img src="https://github.com/jorge-nbb/images/blob/main/p34.1.png" alt="34.1" width="350"/>
+  <hr>
+  <img src="https://github.com/jorge-nbb/images/blob/main/p35.png" alt="35" width="350"/>
 </td>
   </tr>
 </table>
