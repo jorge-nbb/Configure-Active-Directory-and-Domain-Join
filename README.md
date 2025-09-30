@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jorge-nbb/images/raw/main/ad1.png" alt="Active Directory" width="300"/>
+  <img src="https://github.com/jorge-nbb/Configure-Active-Directory-and-Domain-Join/blob/main/images/ad.png" alt="Active Directory" width="300"/>
 </p>
 
 <h1 align="center">Configure Active Directory and Domain Join</h1>
@@ -43,9 +43,9 @@ On **DC-Server** (Windows Server 2022 VM):
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-  <img src="https://github.com/jorge-nbb/images/raw/main/p24.png" alt="24" width="350"/>
+  <img src="https://github.com/jorge-nbb/Configure-Active-Directory-and-Domain-Join/blob/main/images/p24.png" alt="24" width="350"/>
   <hr>
-  <img src="https://github.com/jorge-nbb/images/raw/main/p25.png" alt="25" width="350"/>
+  <img src="https://github.com/jorge-nbb/Configure-Active-Directory-and-Domain-Join/blob/main/images/p25.png" alt="25" width="350"/>
 </td>
   </tr>
 </table>
@@ -68,7 +68,7 @@ On **DC-Server** (Windows Server 2022 VM):
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-  <img src="https://github.com/jorge-nbb/images/raw/main/p26.png" alt="26" width="350"/>
+  <img src="https://github.com/jorge-nbb/Configure-Active-Directory-and-Domain-Join/blob/main/images/p26.png" alt="26" width="350"/>
 </td>
   </tr>
 </table>
@@ -87,7 +87,7 @@ On **DC-Server** (Windows Server 2022 VM):
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-  <img src="https://github.com/jorge-nbb/images/raw/main/p28.png" alt="28" width="350"/>
+  <img src="https://github.com/jorge-nbb/Configure-Active-Directory-and-Domain-Join/blob/main/images/p28.png" alt="28" width="350"/>
 </td>
   </tr>
 </table>
@@ -112,7 +112,7 @@ On **DC-Server** (Windows Server 2022 VM):
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
- <img src="https://github.com/jorge-nbb/images/raw/main/p29.png" alt="29" width="350"/>
+ <img src="https://github.com/jorge-nbb/Configure-Active-Directory-and-Domain-Join/blob/main/images/p29.png" alt="29" width="350"/>
 </td>
   </tr>
 </table>
@@ -152,11 +152,11 @@ ping adminlab.local
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-  <img src="https://github.com/jorge-nbb/images/raw/main/p30.png" alt="30" width="350"/>
+  <img src="https://github.com/jorge-nbb/Configure-Active-Directory-and-Domain-Join/blob/main/images/p30.png" alt="30" width="350"/>
   <hr>
-  <img src="https://github.com/jorge-nbb/images/raw/main/p31.png" alt="31" width="350"/>
+  <img src="https://github.com/jorge-nbb/Configure-Active-Directory-and-Domain-Join/blob/main/images/p31.png" alt="31" width="350"/>
    <hr>
-  <img src="https://github.com/jorge-nbb/images/raw/main/p33.png" alt="33" width="350"/>
+  <img src="https://github.com/jorge-nbb/Configure-Active-Directory-and-Domain-Join/blob/main/images/p33.png" alt="33" width="350"/>
 </td>
   </tr>
 </table>
@@ -202,9 +202,9 @@ You can now RDP as `adminlab\testuser`.
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-  <img src="https://github.com/jorge-nbb/images/blob/main/p34.1.png" alt="34.1" width="350"/>
+  <img src="https://github.com/jorge-nbb/Configure-Active-Directory-and-Domain-Join/blob/main/images/p34.1.png" alt="34.1" width="350"/>
   <hr>
-  <img src="https://github.com/jorge-nbb/images/blob/main/p35.png" alt="35" width="350"/>
+  <img src="https://github.com/jorge-nbb/Configure-Active-Directory-and-Domain-Join/blob/main/images/p35.png" alt="35" width="350"/>
 </td>
   </tr>
 </table>
